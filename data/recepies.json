@@ -2,6 +2,7 @@
     {
         "id": 1,
         "chef-id": 1,
+        "picture": "",
         "name": "Bengali Fish Curry",
         "ingredients": [
           "1 lb. fish fillets",
@@ -22,6 +23,7 @@
       {
         "id": 2,
         "chef-id": 1,
+        "picture": "",
         "name": "Shrimp Biryani",
         "ingredients": [
           "1 lb. shrimp, peeled and deveined",
@@ -44,6 +46,7 @@
       {
         "id": 3,
         "chef-id": 1,
+        "picture": "",
         "name": "Vapa Elish with Mustard Paste",
         "ingredients": [
           "2 pieces of Hilsa fish",
@@ -61,6 +64,7 @@
     {
       "id": 4,
       "chef-id": 2,
+      "picture": "",
       "name": "Lamb Curry",
       "ingredients": [
         "1 lb. lamb, cut into cubes",
@@ -83,6 +87,7 @@
     {
         "id": 5,
         "chef-id": 2,
+        "picture": "",
         "name": "Vapa Elish with Coconut Milk",
         "ingredients": [
           "2 pieces of Hilsa fish",
@@ -100,6 +105,7 @@
     {
       "id": 6,
       "chef-id": 2,
+      "picture": "",
       "name": "Chicken Korma",
       "ingredients": [
         "1 lb. boneless, skinless chicken breasts, cut into cubes",
@@ -122,6 +128,7 @@
     {
         "id": 7,
         "chef-id": 3,
+        "picture": "",
         "name": "Bengali Fish Curry",
         "ingredients": [
           "1 lb. fish fillets",
@@ -142,6 +149,7 @@
       {
         "id": 8,
         "chef-id": 3,
+        "picture": "",
         "name": "Shrimp Biryani",
         "ingredients": [
           "1 lb. shrimp, peeled and deveined",
@@ -164,6 +172,7 @@
       {
         "id": 9,
         "chef-id": 3,
+        "picture": "",
         "name": "Vapa Elish with Mustard Paste",
         "ingredients": [
           "2 pieces of Hilsa fish",
@@ -181,6 +190,7 @@
     {
       "id": 18,
       "chef-id": 4,
+      "picture": "",
       "name": "Lamb Curry",
       "ingredients": [
         "1 lb. lamb, cut into cubes",
@@ -203,6 +213,7 @@
     {
         "id": 10,
         "chef-id": 4,
+        "picture": "",
         "name": "Vapa Elish with Coconut Milk",
         "ingredients": [
           "2 pieces of Hilsa fish",
@@ -220,6 +231,7 @@
     {
       "id": 11,
       "chef-id": 4,
+      "picture": "",
       "name": "Chicken Korma",
       "ingredients": [
         "1 lb. boneless, skinless chicken breasts, cut into cubes",
@@ -242,6 +254,7 @@
     {
         "id": 12,
         "chef-id": 5,
+        "picture": "",
         "name": "Bengali Fish Curry",
         "ingredients": [
           "1 lb. fish fillets",
@@ -262,6 +275,7 @@
       {
         "id": 13,
         "chef-id": 5,
+        "picture": "",
         "name": "Shrimp Biryani",
         "ingredients": [
           "1 lb. shrimp, peeled and deveined",
@@ -284,6 +298,7 @@
       {
         "id": 14,
         "chef-id": 5,
+        "picture": "",
         "name": "Vapa Elish with Mustard Paste",
         "ingredients": [
           "2 pieces of Hilsa fish",
@@ -301,6 +316,7 @@
     {
       "id": 15,
       "chef-id": 6,
+      "picture": "",
       "name": "Lamb Curry",
       "ingredients": [
         "1 lb. lamb, cut into cubes",
@@ -323,6 +339,7 @@
     {
         "id": 16,
         "chef-id": 6,
+        "picture": "",
         "name": "Vapa Elish with Coconut Milk",
         "ingredients": [
           "2 pieces of Hilsa fish",
@@ -340,6 +357,7 @@
     {
       "id": 17,
       "chef-id": 6,
+      "picture": "",
       "name": "Chicken Korma",
       "ingredients": [
         "1 lb. boneless, skinless chicken breasts, cut into cubes",
