@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "chef-id": 1,
+        "chef_id": 1,
         "picture": "",
         "name": "Bengali Fish Curry",
         "ingredients": [
@@ -22,7 +22,7 @@
       },
       {
         "id": 2,
-        "chef-id": 1,
+        "chef_id": 1,
         "picture": "",
         "name": "Shrimp Biryani",
         "ingredients": [
@@ -45,7 +45,7 @@
       },
       {
         "id": 3,
-        "chef-id": 1,
+        "chef_id": 1,
         "picture": "",
         "name": "Vapa Elish with Mustard Paste",
         "ingredients": [
@@ -63,7 +63,7 @@
       },
     {
       "id": 4,
-      "chef-id": 2,
+      "chef_id": 2,
       "picture": "",
       "name": "Lamb Curry",
       "ingredients": [
@@ -86,7 +86,7 @@
     },
     {
         "id": 5,
-        "chef-id": 2,
+        "chef_id": 2,
         "picture": "",
         "name": "Vapa Elish with Coconut Milk",
         "ingredients": [
@@ -104,7 +104,7 @@
       },
     {
       "id": 6,
-      "chef-id": 2,
+      "chef_id": 2,
       "picture": "",
       "name": "Chicken Korma",
       "ingredients": [
@@ -127,7 +127,7 @@
     },
     {
         "id": 7,
-        "chef-id": 3,
+        "chef_id": 3,
         "picture": "",
         "name": "Bengali Fish Curry",
         "ingredients": [
@@ -148,7 +148,7 @@
       },
       {
         "id": 8,
-        "chef-id": 3,
+        "chef_id": 3,
         "picture": "",
         "name": "Shrimp Biryani",
         "ingredients": [
@@ -171,7 +171,7 @@
       },
       {
         "id": 9,
-        "chef-id": 3,
+        "chef_id": 3,
         "picture": "",
         "name": "Vapa Elish with Mustard Paste",
         "ingredients": [
@@ -189,7 +189,7 @@
       },
     {
       "id": 18,
-      "chef-id": 4,
+      "chef_id": 4,
       "picture": "",
       "name": "Lamb Curry",
       "ingredients": [
@@ -212,7 +212,7 @@
     },
     {
         "id": 10,
-        "chef-id": 4,
+        "chef_id": 4,
         "picture": "",
         "name": "Vapa Elish with Coconut Milk",
         "ingredients": [
@@ -230,7 +230,7 @@
       },
     {
       "id": 11,
-      "chef-id": 4,
+      "chef_id": 4,
       "picture": "",
       "name": "Chicken Korma",
       "ingredients": [
@@ -253,7 +253,7 @@
     },
     {
         "id": 12,
-        "chef-id": 5,
+        "chef_id": 5,
         "picture": "",
         "name": "Bengali Fish Curry",
         "ingredients": [
@@ -274,7 +274,7 @@
       },
       {
         "id": 13,
-        "chef-id": 5,
+        "chef_id": 5,
         "picture": "",
         "name": "Shrimp Biryani",
         "ingredients": [
@@ -297,7 +297,7 @@
       },
       {
         "id": 14,
-        "chef-id": 5,
+        "chef_id": 5,
         "picture": "",
         "name": "Vapa Elish with Mustard Paste",
         "ingredients": [
@@ -315,7 +315,7 @@
       },
     {
       "id": 15,
-      "chef-id": 6,
+      "chef_id": 6,
       "picture": "",
       "name": "Lamb Curry",
       "ingredients": [
@@ -338,7 +338,7 @@
     },
     {
         "id": 16,
-        "chef-id": 6,
+        "chef_id": 6,
         "picture": "",
         "name": "Vapa Elish with Coconut Milk",
         "ingredients": [
@@ -356,7 +356,7 @@
       },
     {
       "id": 17,
-      "chef-id": 6,
+      "chef_id": 6,
       "picture": "",
       "name": "Chicken Korma",
       "ingredients": [

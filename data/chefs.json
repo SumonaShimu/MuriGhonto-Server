@@ -1,6 +1,6 @@
 [
     {
-        "chef-id": 1,
+        "chef_id": 1,
         "picture": "https://randomuser.me/api/portraits/men/61.jpg",
         "name": "Tareq Taylor",
         "experience": 20,
@@ -8,7 +8,7 @@
         "likes": 650
     },
     {
-        "chef-id": 2,
+        "chef_id": 2,
         "picture": "https://randomuser.me/api/portraits/men/11.jpg",
         "name": "Muntasir Rahman",
         "experience": 8,
@@ -16,7 +16,7 @@
         "likes": 200
     },
     {
-        "chef-id": 3,
+        "chef_id": 3,
         "picture": "https://randomuser.me/api/portraits/women/32.jpg",
         "name": "Abida Rahman",
         "experience": 15,
@@ -24,7 +24,7 @@
         "likes": 450
     },
     {
-        "chef-id": 4,
+        "chef_id": 4,
         "picture": "https://randomuser.me/api/portraits/women/10.jpg",
         "name": "Sadia Islam",
         "experience": 10,
@@ -32,7 +32,7 @@
         "likes": 250
     },
     {
-        "chef-id": 5,
+        "chef_id": 5,
         "picture": "https://randomuser.me/api/portraits/women/49.jpg",
         "name": "Nadia Huq",
         "experience": 12,
@@ -40,7 +40,7 @@
         "likes": 350
     },
     {
-        "chef-id": 6,
+        "chef_id": 6,
         "picture": "https://randomuser.me/api/portraits/men/28.jpg",
         "name": "Anwar Hossain",
         "experience": 18,

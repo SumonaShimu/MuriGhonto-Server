@@ -16,6 +16,11 @@ app.get('/chefs', (req, res) => {
 app.get('/recepies', (req, res) => {
   res.send(recepies);
 })
+app.get('/chefs/:id', (req, res) => {
+  const id=req.params.id;
+  const selectedRecepies=recepies.filter(item=>item.chef_id==id)
+  res.send(selectedRecepies);
+})
 
 app.listen(port, () => {
   console.log(`server running on port: ${port}`)
