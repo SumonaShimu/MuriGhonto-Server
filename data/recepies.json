@@ -2,7 +2,7 @@
   {
     "id": 1,
     "chef_id": 1,
-    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/3.jpeg",
+    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/16jpg",
     "name": "Bengali Fish Curry",
     "ingredients": [
       "1 lb. fish fillets",
@@ -87,7 +87,7 @@
   {
     "id": 5,
     "chef_id": 2,
-    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/6.jpeg",
+    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/19.jpg",
     "name": "Vapa Elish with Coconut Milk",
     "ingredients": [
       "2 pieces of Hilsa fish",
@@ -274,8 +274,8 @@
   {
     "id": 13,
     "chef_id": 5,
-    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/1.jpg",
-    "name": "luchi Torkari",
+    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/19.jpeg",
+    "name": "5 mishali shobji",
     "ingredients": [
       "1 lb. vegetables, peeled and deveined",
       "1 onion, chopped",
@@ -297,7 +297,7 @@
   {
     "id": 14,
     "chef_id": 5,
-    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/10.jpeg",
+    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/19.jpg",
     "name": "Elish Paturi with Mustard Paste",
     "ingredients": [
       "2 pieces of Hilsa fish",
