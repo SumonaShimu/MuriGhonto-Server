@@ -46,7 +46,7 @@
   {
     "id": 3,
     "chef_id": 1,
-    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/14.JPG",
+    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/17.jpg",
     "name": "Chicken Korma",
     "ingredients": [
       "1 lb. boneless, skinless chicken breasts, cut into cubes",
@@ -70,9 +70,9 @@
     "id": 4,
     "chef_id": 2,
     "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/12.jpg",
-    "name": "Lamb Curry",
+    "name": "Mutton Curry",
     "ingredients": [
-      "1 lb. lamb, cut into cubes",
+      "1 lb. Mutton, cut into cubes",
       "1 onion, chopped",
       "2 cloves garlic, minced",
       "1 tbsp. ginger, grated",
@@ -86,7 +86,7 @@
       "1/2 cup plain yogurt",
       "1/4 cup chopped fresh cilantro"
     ],
-    "method": "In a large skillet, heat the oil over medium heat. Add the onion, garlic, and ginger, and sauté for 2-3 minutes until the onion is translucent. Add the lamb, turmeric, cumin, coriander, salt, and black pepper, and sauté for 5-7 minutes until the lamb is browned on all sides. Add the water and bring to a simmer. Reduce the heat to low and simmer for 1-2 hours until the lamb is tender. Stir in the yogurt and cilantro, and simmer for another 5 minutes. Serve hot with rice.",
+    "method": "In a large skillet, heat the oil over medium heat. Add the onion, garlic, and ginger, and sauté for 2-3 minutes until the onion is translucent. Add the mutton, turmeric, cumin, coriander, salt, and black pepper, and sauté for 5-7 minutes until the mutton is browned on all sides. Add the water and bring to a simmer. Reduce the heat to low and simmer for 1-2 hours until the mutton is tender. Stir in the yogurt and cilantro, and simmer for another 5 minutes. Serve hot with rice.",
     "rating": 4.8
   },
   {
@@ -110,8 +110,8 @@
   {
     "id": 6,
     "chef_id": 2,
-    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/17.jpg",
-    "name": "Vapa Elish with Mustard Paste",
+    "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/recepies/20.jpg",
+    "name": "Elish Paturi",
     "ingredients": [
       "2 pieces of Hilsa fish",
       "2 tbsp. mustard paste",
