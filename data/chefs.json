@@ -6,7 +6,7 @@
         "experience": 20,
         "recipes": 100,
         "likes": 650,
-        "bio": "Kamal Ahmed is a renowned Bangladeshi chef with over 20 years of experience in the culinary world. He has worked in some of the finest restaurants in Bangladesh and has won numerous awards for his exceptional dishes. Kamal is known for his creative and innovative take on traditional Bangladeshi cuisine and is a mentor to many young chefs."
+        "bio": "Tareq Taylor is a renowned Bangladeshi chef with over 20 years of experience in the culinary world. He has worked in some of the finest restaurants in Bangladesh and has won numerous awards for his exceptional dishes. Tareq is known for his creative and innovative take on traditional Bangladeshi cuisine and is a mentor to many young chefs."
     },
     {
         "chef_id": 2,
@@ -15,7 +15,7 @@
         "experience": 8,
         "recipes": 40,
         "likes": 200,
-        "bio": "Nazia Sultana is a talented Bangladeshi chef with over 12 years of experience in the culinary world. She has a strong social media following and has published several cookbooks. Nazia is known for her innovative and modern take on traditional Bangladeshi dishes, and is a frequent guest on cooking shows and food events."
+        "bio": "Muntasir Rahman is a talented Bangladeshi chef with over 12 years of experience in the culinary world. He has a strong social media following and has published several cookbooks. Muntasir is known for her innovative and modern take on traditional Bangladeshi dishes, and is a frequent guest on cooking shows and food events."
     },
     {
         "chef_id": 3,
@@ -24,7 +24,7 @@
         "experience": 15,
         "recipes": 80,
         "likes": 450,
-        "bio": "Nadia Hussain is a renowned Bangladeshi chef with over 10 years of experience in the culinary arts. She has authored several cookbooks and has a strong social media following. Nadia is known for her innovative take on traditional Bangladeshi dishes, and is a frequent guest on cooking shows and food events."
+        "bio": "Abida Rahman is a renowned Bangladeshi chef with over 10 years of experience in the culinary arts. She has authored several cookbooks and has a strong social media following. Abida is known for her innovative take on traditional Bangladeshi dishes, and is a frequent guest on cooking shows and food events."
     },
     {
         "chef_id": 4,
@@ -33,7 +33,7 @@
         "experience": 10,
         "recipes": 50,
         "likes": 250,
-        "bio": "Mamun Khan is a well-known Bangladeshi chef with over 15 years of experience in the culinary world. He has worked in many renowned restaurants and has won numerous awards for his innovative and delicious dishes. Mamun is also a mentor to young chefs and is passionate about promoting Bangladeshi cuisine around the world."
+        "bio": "Sadia Islam is a well-known Bangladeshi chef with over 15 years of experience in the culinary world. She has worked in many renowned restaurants and has won numerous awards for his innovative and delicious dishes. Sadia is also a mentor to young chefs and is passionate about promoting Bangladeshi cuisine around the world."
     },
     {
         "chef_id": 5,
@@ -42,7 +42,7 @@
         "experience": 12,
         "recipes": 60,
         "likes": 350,
-        "bio": "Nadia Hussain is a renowned Bangladeshi chef with over 10 years of experience in the culinary arts. She has authored several cookbooks and has a strong social media following. Nadia is known for her innovative take on traditional Bangladeshi dishes, and is a frequent guest on cooking shows and food events."
+        "bio": "Nadia Huq is a renowned Bangladeshi chef with over 10 years of experience in the culinary arts. She has authored several cookbooks and has a strong social media following. Nadia is known for her innovative take on traditional Bangladeshi dishes, and is a frequent guest on cooking shows and food events."
     },
     {
         "chef_id": 6,
@@ -51,6 +51,6 @@
         "experience": 18,
         "recipes": 90,
         "likes": 500,
-        "bio": "Imran Ahmed is a renowned Bangladeshi chef with over 15 years of experience in the culinary world. He has worked in some of the best restaurants in Bangladesh and has won numerous awards for his exceptional dishes. Imran is known for his modern and innovative take on traditional Bangladeshi cuisine and is a mentor to many young chefs."
+        "bio": "Anwar Hossain is a renowned Bangladeshi chef with over 15 years of experience in the culinary world. He has worked in some of the best restaurants in Bangladesh and has won numerous awards for his exceptional dishes. Anwar is known for his modern and innovative take on traditional Bangladeshi cuisine and is a mentor to many young chefs."
     }
 ]
