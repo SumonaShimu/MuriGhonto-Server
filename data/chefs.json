@@ -1,7 +1,7 @@
 [
     {
         "chef_id": 1,
-        "picture": "https://randomuser.me/api/portraits/men/61.jpg",
+        "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/chefs/5.jpg",
         "name": "Tareq Taylor",
         "experience": 20,
         "recipes": 100,
@@ -10,16 +10,16 @@
     },
     {
         "chef_id": 2,
-        "picture": "https://randomuser.me/api/portraits/men/11.jpg",
-        "name": "Muntasir Rahman",
+        "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/chefs/3.png",
+        "name": "Jethalal Sarkar",
         "experience": 8,
         "recipes": 40,
         "likes": 200,
-        "bio": "Muntasir Rahman is a talented Bangladeshi chef with over 12 years of experience in the culinary world. He has a strong social media following and has published several cookbooks. Muntasir is known for her innovative and modern take on traditional Bangladeshi dishes, and is a frequent guest on cooking shows and food events."
+        "bio": "Jethalal Sarkar is a talented Bangladeshi chef with over 12 years of experience in the culinary world. He has a strong social media following and has published several cookbooks. He is known for his innovative and modern take on traditional Bangladeshi dishes, and is a frequent guest on cooking shows and food events."
     },
     {
         "chef_id": 3,
-        "picture": "https://randomuser.me/api/portraits/women/32.jpg",
+        "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/chefs/2.jpg",
         "name": "Abida Rahman",
         "experience": 15,
         "recipes": 80,
@@ -28,7 +28,7 @@
     },
     {
         "chef_id": 4,
-        "picture": "https://randomuser.me/api/portraits/women/10.jpg",
+        "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/chefs/7.jpg",
         "name": "Sadia Islam",
         "experience": 10,
         "recipes": 50,
@@ -37,7 +37,7 @@
     },
     {
         "chef_id": 5,
-        "picture": "https://randomuser.me/api/portraits/women/49.jpg",
+        "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/chefs/4.jpg",
         "name": "Nadia Huq",
         "experience": 12,
         "recipes": 60,
@@ -46,7 +46,7 @@
     },
     {
         "chef_id": 6,
-        "picture": "https://randomuser.me/api/portraits/men/28.jpg",
+        "picture": "https://raw.githubusercontent.com/SumonaShimu/FoodData/main/chefs/6.jpg",
         "name": "Anwar Hossain",
         "experience": 18,
         "recipes": 90,
